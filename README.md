@@ -8,7 +8,7 @@ For using the extension follow the steps:
 4. If you have successfully completed the previous steps,extension icon (black key)has been added to your Chrome .
 5. register to the extension and then connect.
 6. Go to one of the websites where there is an login with a username and password , fill the fields and click login.
-   the extension should ask you if you want to save the fields for this site , press ok for saving.
+   the extension should ask you if you want to save the fields for this website , press ok for saving.
 7. Load again the site and the fields will be filled in automatically
 
 Now, continue to use the extension to keep your passwords for all the websites where you have an account.
